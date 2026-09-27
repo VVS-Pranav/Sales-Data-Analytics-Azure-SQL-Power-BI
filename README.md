@@ -72,7 +72,7 @@ The Power BI report provides analysis of:
 | File | Description |
 |---|---|
 | `TshirtsMen.pbix` | Power BI report containing the data model, transformations, calculations, and visualizations |
-| `Tshirts_Men.csv` | Source dataset used for the analysis |
+| `Men+Tshirt.csv` | Source dataset used for the analysis |
 
 ## Key Skills Demonstrated
 
